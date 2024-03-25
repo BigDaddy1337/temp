@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0806cf5708e49fc684e97338c6bac94d",
+        "name": "kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+        "size": {
+            "width": 6016,
+            "height": 4000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cYzk6hV0G",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 681.2227074235808,
+                "width": 702.8853410740204,
+                "left": 4415.271407837446,
+                "top": 1868.9956331877734
+            },
+            "points": [
+                {
+                    "x": 4415.271407837446,
+                    "y": 1868.9956331877734
+                },
+                {
+                    "x": 5118.156748911466,
+                    "y": 1868.9956331877734
+                },
+                {
+                    "x": 5118.156748911466,
+                    "y": 2550.2183406113545
+                },
+                {
+                    "x": 4415.271407837446,
+                    "y": 2550.2183406113545
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

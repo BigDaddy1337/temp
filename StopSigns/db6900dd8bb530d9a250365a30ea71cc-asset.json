@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "db6900dd8bb530d9a250365a30ea71cc",
+        "name": "joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+        "size": {
+            "width": 4814,
+            "height": 3209
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "QyehuAd9U",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 2539.8744541484716,
+                "width": 2540.138282387191,
+                "left": 1277.3501410116448,
+                "top": 402.87663755458516
+            },
+            "points": [
+                {
+                    "x": 1277.3501410116448,
+                    "y": 402.87663755458516
+                },
+                {
+                    "x": 3817.488423398836,
+                    "y": 402.87663755458516
+                },
+                {
+                    "x": 3817.488423398836,
+                    "y": 2942.7510917030568
+                },
+                {
+                    "x": 1277.3501410116448,
+                    "y": 2942.7510917030568
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

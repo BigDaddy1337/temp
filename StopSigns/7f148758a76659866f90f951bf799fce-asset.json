@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7f148758a76659866f90f951bf799fce",
+        "name": "doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+        "size": {
+            "width": 2823,
+            "height": 2823
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "w4u2u5cSm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 496.18231441048033,
+                "width": 496.18231441048033,
+                "left": 648.7352620087336,
+                "top": 1374.5174672489081
+            },
+            "points": [
+                {
+                    "x": 648.7352620087336,
+                    "y": 1374.5174672489081
+                },
+                {
+                    "x": 1144.917576419214,
+                    "y": 1374.5174672489081
+                },
+                {
+                    "x": 1144.917576419214,
+                    "y": 1870.6997816593885
+                },
+                {
+                    "x": 648.7352620087336,
+                    "y": 1870.6997816593885
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

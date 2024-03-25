@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e7d5730a40c535e412047b2ccdeb5934",
+        "name": "bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+        "size": {
+            "width": 3456,
+            "height": 5184
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-fNKP2OOg",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 1612.9257641921397,
+                "width": 1487.607201309329,
+                "left": 994.6252045826515,
+                "top": 1165.8340611353713
+            },
+            "points": [
+                {
+                    "x": 994.6252045826515,
+                    "y": 1165.8340611353713
+                },
+                {
+                    "x": 2482.2324058919803,
+                    "y": 1165.8340611353713
+                },
+                {
+                    "x": 2482.2324058919803,
+                    "y": 2778.759825327511
+                },
+                {
+                    "x": 994.6252045826515,
+                    "y": 2778.759825327511
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

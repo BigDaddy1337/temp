@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cf51391871742d076f6a1ddce3965bdc",
+        "name": "ben-mater-YO3iFGBN6TU-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ben-mater-YO3iFGBN6TU-unsplash.jpg",
+        "size": {
+            "width": 5472,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zraSLHUDW",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 2508.995633187773,
+                "width": 2222.2532751091703,
+                "left": 1738.3755458515284,
+                "top": 521.7117903930131
+            },
+            "points": [
+                {
+                    "x": 1738.3755458515284,
+                    "y": 521.7117903930131
+                },
+                {
+                    "x": 3960.6288209606987,
+                    "y": 521.7117903930131
+                },
+                {
+                    "x": 3960.6288209606987,
+                    "y": 3030.707423580786
+                },
+                {
+                    "x": 1738.3755458515284,
+                    "y": 3030.707423580786
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

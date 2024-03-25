@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "aa2c1cdfca127c049f1aaff25c9b9c67",
+        "name": "free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+        "size": {
+            "width": 2832,
+            "height": 4240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ifkXHPI9o",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 717.4672489082969,
+                "width": 745.0196078431374,
+                "left": 1038.5012254901962,
+                "top": 893.3624454148471
+            },
+            "points": [
+                {
+                    "x": 1038.5012254901962,
+                    "y": 893.3624454148471
+                },
+                {
+                    "x": 1783.5208333333335,
+                    "y": 893.3624454148471
+                },
+                {
+                    "x": 1783.5208333333335,
+                    "y": 1610.829694323144
+                },
+                {
+                    "x": 1038.5012254901962,
+                    "y": 1610.829694323144
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

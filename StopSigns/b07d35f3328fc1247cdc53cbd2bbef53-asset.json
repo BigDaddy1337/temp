@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b07d35f3328fc1247cdc53cbd2bbef53",
+        "name": "luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+        "size": {
+            "width": 3376,
+            "height": 6000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "d9LnsJ_zK",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 2659.3886462882097,
+                "width": 2005.9339805825243,
+                "left": 158.6597087378641,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 158.6597087378641,
+                    "y": 0
+                },
+                {
+                    "x": 2164.5936893203884,
+                    "y": 0
+                },
+                {
+                    "x": 2164.5936893203884,
+                    "y": 2659.3886462882097
+                },
+                {
+                    "x": 158.6597087378641,
+                    "y": 2659.3886462882097
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

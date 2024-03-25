@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "89454a321a5f1372902d8b88fb6ea360",
+        "name": "juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+        "size": {
+            "width": 4288,
+            "height": 2848
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Qv5Cbr8Vw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 1063.3362445414848,
+                "width": 1019.9158810732414,
+                "left": 2043.1841914430745,
+                "top": 879.8951965065503
+            },
+            "points": [
+                {
+                    "x": 2043.1841914430745,
+                    "y": 879.8951965065503
+                },
+                {
+                    "x": 3063.100072516316,
+                    "y": 879.8951965065503
+                },
+                {
+                    "x": 3063.100072516316,
+                    "y": 1943.231441048035
+                },
+                {
+                    "x": 2043.1841914430745,
+                    "y": 1943.231441048035
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

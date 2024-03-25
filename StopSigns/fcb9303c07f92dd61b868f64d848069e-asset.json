@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fcb9303c07f92dd61b868f64d848069e",
+        "name": "joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+        "size": {
+            "width": 2533,
+            "height": 3784
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "n2K_ON2Tr",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 446.1484716157205,
+                "width": 268.5889070146819,
+                "left": 1405.313978384992,
+                "top": 2842.131004366812
+            },
+            "points": [
+                {
+                    "x": 1405.313978384992,
+                    "y": 2842.131004366812
+                },
+                {
+                    "x": 1673.9028853996738,
+                    "y": 2842.131004366812
+                },
+                {
+                    "x": 1673.9028853996738,
+                    "y": 3288.2794759825324
+                },
+                {
+                    "x": 1405.313978384992,
+                    "y": 3288.2794759825324
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

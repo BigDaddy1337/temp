@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e669acecaff8aaea5f55657d0ea1a392",
+        "name": "jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+        "size": {
+            "width": 2686,
+            "height": 3576
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "M4Iz8GPRq",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 546.5502183406113,
+                "width": 534.857558139535,
+                "left": 630.5682685319767,
+                "top": 936.943231441048
+            },
+            "points": [
+                {
+                    "x": 630.5682685319767,
+                    "y": 936.943231441048
+                },
+                {
+                    "x": 1165.4258266715117,
+                    "y": 936.943231441048
+                },
+                {
+                    "x": 1165.4258266715117,
+                    "y": 1483.4934497816594
+                },
+                {
+                    "x": 630.5682685319767,
+                    "y": 1483.4934497816594
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

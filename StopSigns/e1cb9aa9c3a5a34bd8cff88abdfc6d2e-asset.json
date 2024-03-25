@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e1cb9aa9c3a5a34bd8cff88abdfc6d2e",
+        "name": "diego-lozano-AmZC7bCrsko-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/diego-lozano-AmZC7bCrsko-unsplash.jpg",
+        "size": {
+            "width": 6000,
+            "height": 4000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "n5qtAqxzO",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 1868.9956331877731,
+                "width": 1462.882096069869,
+                "left": 2141.921397379913,
+                "top": 960.6986899563319
+            },
+            "points": [
+                {
+                    "x": 2141.921397379913,
+                    "y": 960.6986899563319
+                },
+                {
+                    "x": 3604.803493449782,
+                    "y": 960.6986899563319
+                },
+                {
+                    "x": 3604.803493449782,
+                    "y": 2829.694323144105
+                },
+                {
+                    "x": 2141.921397379913,
+                    "y": 2829.694323144105
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

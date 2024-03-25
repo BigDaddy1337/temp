@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53a3b17f5bffb9a8710e24cf7e688ef5",
+        "name": "pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+        "size": {
+            "width": 2271,
+            "height": 2271
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kfnI-UXjn",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 647.0862445414847,
+                "width": 513.2063318777292,
+                "left": 893.7723799126637,
+                "top": 1375.9879912663755
+            },
+            "points": [
+                {
+                    "x": 893.7723799126637,
+                    "y": 1375.9879912663755
+                },
+                {
+                    "x": 1406.978711790393,
+                    "y": 1375.9879912663755
+                },
+                {
+                    "x": 1406.978711790393,
+                    "y": 2023.0742358078603
+                },
+                {
+                    "x": 893.7723799126637,
+                    "y": 2023.0742358078603
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

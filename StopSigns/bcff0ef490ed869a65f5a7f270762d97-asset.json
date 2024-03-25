@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bcff0ef490ed869a65f5a7f270762d97",
+        "name": "anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+        "size": {
+            "width": 3008,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YgUZw5Tru",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 334.0611353711791,
+                "width": 336.1625544267054,
+                "left": 793.133526850508,
+                "top": 189.95633187772927
+            },
+            "points": [
+                {
+                    "x": 793.133526850508,
+                    "y": 189.95633187772927
+                },
+                {
+                    "x": 1129.2960812772135,
+                    "y": 189.95633187772927
+                },
+                {
+                    "x": 1129.2960812772135,
+                    "y": 524.0174672489084
+                },
+                {
+                    "x": 793.133526850508,
+                    "y": 524.0174672489084
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

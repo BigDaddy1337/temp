@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1202aa50b3676683f06d0c79a410abea",
+        "name": "eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+        "size": {
+            "width": 4912,
+            "height": 3264
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Q5MdypRb2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 320.69868995633186,
+                "width": 335.0711175616836,
+                "left": 2693.9361393323657,
+                "top": 1557.1703056768558
+            },
+            "points": [
+                {
+                    "x": 2693.9361393323657,
+                    "y": 1557.1703056768558
+                },
+                {
+                    "x": 3029.0072568940495,
+                    "y": 1557.1703056768558
+                },
+                {
+                    "x": 3029.0072568940495,
+                    "y": 1877.8689956331878
+                },
+                {
+                    "x": 2693.9361393323657,
+                    "y": 1877.8689956331878
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

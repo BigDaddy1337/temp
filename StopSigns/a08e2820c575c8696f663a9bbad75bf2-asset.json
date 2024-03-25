@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a08e2820c575c8696f663a9bbad75bf2",
+        "name": "chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+        "size": {
+            "width": 5184,
+            "height": 3888
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "USmIX-Sd4",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 594.235807860262,
+                "width": 577.4152334152334,
+                "left": 1210.7542997542996,
+                "top": 1001.7117903930131
+            },
+            "points": [
+                {
+                    "x": 1210.7542997542996,
+                    "y": 1001.7117903930131
+                },
+                {
+                    "x": 1788.169533169533,
+                    "y": 1001.7117903930131
+                },
+                {
+                    "x": 1788.169533169533,
+                    "y": 1595.947598253275
+                },
+                {
+                    "x": 1210.7542997542996,
+                    "y": 1595.947598253275
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

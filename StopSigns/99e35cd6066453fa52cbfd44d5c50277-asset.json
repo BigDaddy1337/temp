@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "99e35cd6066453fa52cbfd44d5c50277",
+        "name": "jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+        "size": {
+            "width": 3024,
+            "height": 4032
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZLHO5oagu",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 206.88209606986896,
+                "width": 215.68558951965065,
+                "left": 1989.589519650655,
+                "top": 2033.606986899563
+            },
+            "points": [
+                {
+                    "x": 1989.589519650655,
+                    "y": 2033.606986899563
+                },
+                {
+                    "x": 2205.2751091703053,
+                    "y": 2033.606986899563
+                },
+                {
+                    "x": 2205.2751091703053,
+                    "y": 2240.4890829694323
+                },
+                {
+                    "x": 1989.589519650655,
+                    "y": 2240.4890829694323
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

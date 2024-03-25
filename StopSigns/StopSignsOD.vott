@@ -1,0 +1,549 @@
+{
+    "name": "StopSignsOD",
+    "securityToken": "StopSignsOD Token",
+    "sourceConnection": {
+        "name": "StopSigns",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWM0YjY4ZWIzOGZlNGJlODdhMTEwMTY1NTFkMDNlNTMzZjYwOWRmMjMzZjZmYzgxYWM1ODE1MDJiNWZlMjliODc1NzQxZDhhNGJmMmIyM2YxNTAzNGZlOWNiNTIyZGQ2YjNlYTI0MGYyMTIxMWQ1NGY0NDc5MDMzYjc2YTM3OGYiLCJpdiI6ImNmNjBhMDFkOTI4MDZlNzEzMjg1ZTU5ODQ4ZjIxOTkxNTc0MmU3MjRiMmIzMzk3OCJ9"
+        },
+        "id": "sRwHpQdWJ"
+    },
+    "targetConnection": {
+        "name": "StopSigns",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTFlMTgxYzE3ODBjZWI1ZTRkYTBiZjljN2Q0ZTc1MmNhMDgyNzhiNjkwZDAyZWI5MzE5Y2U4MDQ5MzhlYWQ3Y2U2MDRmNjZkNGI0OTFiNjIwNzA2ZTg3NmVhNjc4YzhiZThkMWYyNjkzZTI1N2NkODljNzVmZjM4ZjgyNTQ0NDUiLCJpdiI6ImJjODMxNWNkYTEyODQ5M2NjYmVhZjdjOTU0NDRkYzVjNjViOTRjMzE5YzY2Y2FmMyJ9"
+        },
+        "id": "sRwHpQdWJ"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Stop sign",
+            "color": "#5db300"
+        }
+    ],
+    "id": "hiadVljED",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTY3YzM4NmRlMTYyMWUwYzUwMjQ1YjFhOWIzZGU1Nzg0ZjEyMjM2OTQ0MmY0NTA1MGY1MWQ5YmJhMDNhMjM1Y2NjNzY1MDczMmRjZGRlYjg2MGQ2OGQyMTI0MmJhOGExIiwiaXYiOiI1ZWQ1ODQ1NzQ1ZWMxYTMyOWQ5MDFjODE2YmQxOTUyNTkwYzg5OTM2OWMyYzVhMGIifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "deaf04a8f86d40b5782ef37ebe47ee56",
+    "assets": {
+        "b4858d34b1f6200283f749e10a82ed4c": {
+            "format": "jpg",
+            "id": "b4858d34b1f6200283f749e10a82ed4c",
+            "name": "ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+            "size": {
+                "width": 3553,
+                "height": 4737
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0622677d8537fa0105bdd6ffeb599552": {
+            "format": "jpg",
+            "id": "0622677d8537fa0105bdd6ffeb599552",
+            "name": "alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg",
+            "size": {
+                "width": 4309,
+                "height": 2426
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84902e8a474d329b3ee59dd66cc7536f": {
+            "format": "jpg",
+            "id": "84902e8a474d329b3ee59dd66cc7536f",
+            "name": "andrii-leonov-W_rQAwVRPgg-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/andrii-leonov-W_rQAwVRPgg-unsplash.jpg",
+            "size": {
+                "width": 2917,
+                "height": 3890
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bcff0ef490ed869a65f5a7f270762d97": {
+            "format": "jpg",
+            "id": "bcff0ef490ed869a65f5a7f270762d97",
+            "name": "anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+            "size": {
+                "width": 3008,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ce86aa7f4d644a74735e84ce9dff8c2": {
+            "format": "jpg",
+            "id": "6ce86aa7f4d644a74735e84ce9dff8c2",
+            "name": "arthur-osipyan-vLusIJAYy_Q-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/arthur-osipyan-vLusIJAYy_Q-unsplash.jpg",
+            "size": {
+                "width": 2738,
+                "height": 1825
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf51391871742d076f6a1ddce3965bdc": {
+            "format": "jpg",
+            "id": "cf51391871742d076f6a1ddce3965bdc",
+            "name": "ben-mater-YO3iFGBN6TU-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ben-mater-YO3iFGBN6TU-unsplash.jpg",
+            "size": {
+                "width": 5472,
+                "height": 3648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7d5730a40c535e412047b2ccdeb5934": {
+            "format": "jpg",
+            "id": "e7d5730a40c535e412047b2ccdeb5934",
+            "name": "bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+            "size": {
+                "width": 3456,
+                "height": 5184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ffded510a67977ba7dbd988b34b2f0e": {
+            "format": "jpg",
+            "id": "0ffded510a67977ba7dbd988b34b2f0e",
+            "name": "branden-tate-XgEHOPn7h_E-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/branden-tate-XgEHOPn7h_E-unsplash.jpg",
+            "size": {
+                "width": 5184,
+                "height": 3456
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53e2a96f67db70846cb20bf30adfc0e5": {
+            "format": "jpg",
+            "id": "53e2a96f67db70846cb20bf30adfc0e5",
+            "name": "brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+            "size": {
+                "width": 2603,
+                "height": 3904
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a08e2820c575c8696f663a9bbad75bf2": {
+            "format": "jpg",
+            "id": "a08e2820c575c8696f663a9bbad75bf2",
+            "name": "chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+            "size": {
+                "width": 5184,
+                "height": 3888
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de388812d3bc75081cc2857e05de6d2f": {
+            "format": "jpg",
+            "id": "de388812d3bc75081cc2857e05de6d2f",
+            "name": "chris-benson-h0UG2Bd_Few-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/chris-benson-h0UG2Bd_Few-unsplash.jpg",
+            "size": {
+                "width": 4096,
+                "height": 2303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "947990ea521c0725ea91fa3216736296": {
+            "format": "jpg",
+            "id": "947990ea521c0725ea91fa3216736296",
+            "name": "david-preston--t7S0WPRr4E-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/david-preston--t7S0WPRr4E-unsplash.jpg",
+            "size": {
+                "width": 2705,
+                "height": 3500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0abdabf4f7d03c7211e01d5ae096e756": {
+            "format": "jpg",
+            "id": "0abdabf4f7d03c7211e01d5ae096e756",
+            "name": "david-preston-mW2NETqR49A-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/david-preston-mW2NETqR49A-unsplash.jpg",
+            "size": {
+                "width": 3500,
+                "height": 2500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1cb9aa9c3a5a34bd8cff88abdfc6d2e": {
+            "format": "jpg",
+            "id": "e1cb9aa9c3a5a34bd8cff88abdfc6d2e",
+            "name": "diego-lozano-AmZC7bCrsko-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/diego-lozano-AmZC7bCrsko-unsplash.jpg",
+            "size": {
+                "width": 6000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7f148758a76659866f90f951bf799fce": {
+            "format": "jpg",
+            "id": "7f148758a76659866f90f951bf799fce",
+            "name": "doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+            "size": {
+                "width": 2823,
+                "height": 2823
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1202aa50b3676683f06d0c79a410abea": {
+            "format": "jpg",
+            "id": "1202aa50b3676683f06d0c79a410abea",
+            "name": "eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+            "size": {
+                "width": 4912,
+                "height": 3264
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dee5bfb2f984784b1b1ddef5ba069978": {
+            "format": "jpg",
+            "id": "dee5bfb2f984784b1b1ddef5ba069978",
+            "name": "emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+            "size": {
+                "width": 2647,
+                "height": 2647
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa2c1cdfca127c049f1aaff25c9b9c67": {
+            "format": "jpg",
+            "id": "aa2c1cdfca127c049f1aaff25c9b9c67",
+            "name": "free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+            "size": {
+                "width": 2832,
+                "height": 4240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16fff86120f1f8ec74434963ff926b27": {
+            "format": "jpg",
+            "id": "16fff86120f1f8ec74434963ff926b27",
+            "name": "giorgio-trovato-7PUrk4B18tY-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/giorgio-trovato-7PUrk4B18tY-unsplash.jpg",
+            "size": {
+                "width": 5596,
+                "height": 3731
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95aa9887184c51de94b9c4f12655877f": {
+            "format": "jpg",
+            "id": "95aa9887184c51de94b9c4f12655877f",
+            "name": "jad-limcaco-Y_J0phaFy2g-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jad-limcaco-Y_J0phaFy2g-unsplash.jpg",
+            "size": {
+                "width": 4895,
+                "height": 2992
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fcb9303c07f92dd61b868f64d848069e": {
+            "format": "jpg",
+            "id": "fcb9303c07f92dd61b868f64d848069e",
+            "name": "joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+            "size": {
+                "width": 2533,
+                "height": 3784
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e669acecaff8aaea5f55657d0ea1a392": {
+            "format": "jpg",
+            "id": "e669acecaff8aaea5f55657d0ea1a392",
+            "name": "jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+            "size": {
+                "width": 2686,
+                "height": 3576
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99e35cd6066453fa52cbfd44d5c50277": {
+            "format": "jpg",
+            "id": "99e35cd6066453fa52cbfd44d5c50277",
+            "name": "jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b63ab57e8c1ac52711a3cefbfda4a1a0": {
+            "format": "jpg",
+            "id": "b63ab57e8c1ac52711a3cefbfda4a1a0",
+            "name": "josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+            "size": {
+                "width": 3000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db6900dd8bb530d9a250365a30ea71cc": {
+            "format": "jpg",
+            "id": "db6900dd8bb530d9a250365a30ea71cc",
+            "name": "joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+            "size": {
+                "width": 4814,
+                "height": 3209
+            },
+            "state": 2,
+            "type": 1
+        },
+        "89454a321a5f1372902d8b88fb6ea360": {
+            "format": "jpg",
+            "id": "89454a321a5f1372902d8b88fb6ea360",
+            "name": "juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+            "size": {
+                "width": 4288,
+                "height": 2848
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9405cf18daadccc860e30849d006e0a": {
+            "format": "jpg",
+            "id": "c9405cf18daadccc860e30849d006e0a",
+            "name": "kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+            "size": {
+                "width": 5568,
+                "height": 3250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64aa61f3fd2a66f54cbfd0cbe99416f5": {
+            "format": "jpg",
+            "id": "64aa61f3fd2a66f54cbfd0cbe99416f5",
+            "name": "kevin-lee-dU8dAD8KoOI-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kevin-lee-dU8dAD8KoOI-unsplash.jpg",
+            "size": {
+                "width": 4000,
+                "height": 6000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0806cf5708e49fc684e97338c6bac94d": {
+            "format": "jpg",
+            "id": "0806cf5708e49fc684e97338c6bac94d",
+            "name": "kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+            "size": {
+                "width": 6016,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b07d35f3328fc1247cdc53cbd2bbef53": {
+            "format": "jpg",
+            "id": "b07d35f3328fc1247cdc53cbd2bbef53",
+            "name": "luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+            "size": {
+                "width": 3376,
+                "height": 6000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b04035a7bdc4b3e63dc90fcfccb9b065": {
+            "format": "jpg",
+            "id": "b04035a7bdc4b3e63dc90fcfccb9b065",
+            "name": "marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+            "size": {
+                "width": 4752,
+                "height": 3168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a372499a84a235243bffc8b4e92254de": {
+            "format": "jpg",
+            "id": "a372499a84a235243bffc8b4e92254de",
+            "name": "mason-wilkes-q-nm36mpsDw-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/mason-wilkes-q-nm36mpsDw-unsplash.jpg",
+            "size": {
+                "width": 5610,
+                "height": 3740
+            },
+            "state": 2,
+            "type": 1
+        },
+        "12a07e18dfd16044e3e0d06258326291": {
+            "format": "jpg",
+            "id": "12a07e18dfd16044e3e0d06258326291",
+            "name": "melanie-these-mXIViwsTvIc-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/melanie-these-mXIViwsTvIc-unsplash.jpg",
+            "size": {
+                "width": 3168,
+                "height": 4752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e0a2913dc1f4410ad03b299ea0562e4": {
+            "format": "jpg",
+            "id": "2e0a2913dc1f4410ad03b299ea0562e4",
+            "name": "naina-vij--j35s3zjPKU-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/naina-vij--j35s3zjPKU-unsplash.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f35a6af40c001749a911b27d273c9a6": {
+            "format": "jpg",
+            "id": "5f35a6af40c001749a911b27d273c9a6",
+            "name": "olivia-connell-Tc9KWrlOL0E-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/olivia-connell-Tc9KWrlOL0E-unsplash.jpg",
+            "size": {
+                "width": 2134,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53a3b17f5bffb9a8710e24cf7e688ef5": {
+            "format": "jpg",
+            "id": "53a3b17f5bffb9a8710e24cf7e688ef5",
+            "name": "pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+            "size": {
+                "width": 2271,
+                "height": 2271
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9f3c3c6a8c550ba1b2cb90cc33caa5c": {
+            "format": "jpg",
+            "id": "c9f3c3c6a8c550ba1b2cb90cc33caa5c",
+            "name": "phil-garrison-ezvpHWyqsYg-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/phil-garrison-ezvpHWyqsYg-unsplash.jpg",
+            "size": {
+                "width": 5807,
+                "height": 3263
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3c140b4c3553b7175e7f69f5f4dc6ff5": {
+            "format": "jpg",
+            "id": "3c140b4c3553b7175e7f69f5f4dc6ff5",
+            "name": "renan-kamikoga-vxx6ilmR-W4-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/renan-kamikoga-vxx6ilmR-W4-unsplash.jpg",
+            "size": {
+                "width": 3613,
+                "height": 5472
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2fc987a1b634b50bd8c929499dbd0564": {
+            "format": "jpg",
+            "id": "2fc987a1b634b50bd8c929499dbd0564",
+            "name": "john-matychuk-dJdcb11aboQ-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/john-matychuk-dJdcb11aboQ-unsplash.jpg",
+            "size": {
+                "width": 5402,
+                "height": 3601
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b11ba4c3ef653db54f3a0f5729e002d4": {
+            "format": "jpg",
+            "id": "b11ba4c3ef653db54f3a0f5729e002d4",
+            "name": "jon-tyson-1IqQDH6KgdU-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jon-tyson-1IqQDH6KgdU-unsplash.jpg",
+            "size": {
+                "width": 2918,
+                "height": 3890
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0c688422482fd1ae9be160df6b8f1a1": {
+            "format": "jpg",
+            "id": "a0c688422482fd1ae9be160df6b8f1a1",
+            "name": "ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+            "size": {
+                "width": 5168,
+                "height": 3448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "deaf04a8f86d40b5782ef37ebe47ee56": {
+            "format": "jpg",
+            "id": "deaf04a8f86d40b5782ef37ebe47ee56",
+            "name": "sam-xu-FgY6bF6emj0-unsplash.jpg",
+            "path": "file:C:/Repository/MLTests/Datasets/StopSigns/sam-xu-FgY6bF6emj0-unsplash.jpg",
+            "size": {
+                "width": 4344,
+                "height": 2896
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

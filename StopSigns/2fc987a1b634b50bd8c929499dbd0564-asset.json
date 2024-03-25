@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2fc987a1b634b50bd8c929499dbd0564",
+        "name": "john-matychuk-dJdcb11aboQ-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/john-matychuk-dJdcb11aboQ-unsplash.jpg",
+        "size": {
+            "width": 5402,
+            "height": 3601
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jNZk5cdH-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 1525.3144104803494,
+                "width": 1560.839883551674,
+                "left": 1909.09245360262,
+                "top": 1006.3930131004366
+            },
+            "points": [
+                {
+                    "x": 1909.09245360262,
+                    "y": 1006.3930131004366
+                },
+                {
+                    "x": 3469.932337154294,
+                    "y": 1006.3930131004366
+                },
+                {
+                    "x": 3469.932337154294,
+                    "y": 2531.707423580786
+                },
+                {
+                    "x": 1909.09245360262,
+                    "y": 2531.707423580786
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

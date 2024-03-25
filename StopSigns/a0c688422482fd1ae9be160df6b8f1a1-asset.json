@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a0c688422482fd1ae9be160df6b8f1a1",
+        "name": "ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+        "size": {
+            "width": 5168,
+            "height": 3448
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "crI7234uR",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 444.174672489083,
+                "width": 459.21048798252,
+                "left": 2412.619446467589,
+                "top": 1633.6593886462883
+            },
+            "points": [
+                {
+                    "x": 2412.619446467589,
+                    "y": 1633.6593886462883
+                },
+                {
+                    "x": 2871.8299344501092,
+                    "y": 1633.6593886462883
+                },
+                {
+                    "x": 2871.8299344501092,
+                    "y": 2077.834061135371
+                },
+                {
+                    "x": 2412.619446467589,
+                    "y": 2077.834061135371
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

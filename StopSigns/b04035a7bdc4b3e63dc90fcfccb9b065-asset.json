@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b04035a7bdc4b3e63dc90fcfccb9b065",
+        "name": "marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+        "size": {
+            "width": 4752,
+            "height": 3168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nc_uVdQwe",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 1321.1528384279477,
+                "width": 975.3013100436682,
+                "left": 1734.4454148471616,
+                "top": 899.2139737991266
+            },
+            "points": [
+                {
+                    "x": 1734.4454148471616,
+                    "y": 899.2139737991266
+                },
+                {
+                    "x": 2709.7467248908297,
+                    "y": 899.2139737991266
+                },
+                {
+                    "x": 2709.7467248908297,
+                    "y": 2220.366812227074
+                },
+                {
+                    "x": 1734.4454148471616,
+                    "y": 2220.366812227074
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

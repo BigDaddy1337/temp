@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "12a07e18dfd16044e3e0d06258326291",
+        "name": "melanie-these-mXIViwsTvIc-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/melanie-these-mXIViwsTvIc-unsplash.jpg",
+        "size": {
+            "width": 3168,
+            "height": 4752
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rZ6a8LxgC",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 1748.2794759825329,
+                "width": 1778.4353518821604,
+                "left": 688.7872340425531,
+                "top": 679.5982532751092
+            },
+            "points": [
+                {
+                    "x": 688.7872340425531,
+                    "y": 679.5982532751092
+                },
+                {
+                    "x": 2467.2225859247133,
+                    "y": 679.5982532751092
+                },
+                {
+                    "x": 2467.2225859247133,
+                    "y": 2427.877729257642
+                },
+                {
+                    "x": 688.7872340425531,
+                    "y": 2427.877729257642
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

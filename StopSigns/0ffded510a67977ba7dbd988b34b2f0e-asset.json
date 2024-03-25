@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0ffded510a67977ba7dbd988b34b2f0e",
+        "name": "branden-tate-XgEHOPn7h_E-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/branden-tate-XgEHOPn7h_E-unsplash.jpg",
+        "size": {
+            "width": 5184,
+            "height": 3456
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ez_-egsrZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 988.5065502183406,
+                "width": 969.6419213973799,
+                "left": 2231.6855895196504,
+                "top": 1214.882096069869
+            },
+            "points": [
+                {
+                    "x": 2231.6855895196504,
+                    "y": 1214.882096069869
+                },
+                {
+                    "x": 3201.3275109170304,
+                    "y": 1214.882096069869
+                },
+                {
+                    "x": 3201.3275109170304,
+                    "y": 2203.3886462882097
+                },
+                {
+                    "x": 2231.6855895196504,
+                    "y": 2203.3886462882097
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

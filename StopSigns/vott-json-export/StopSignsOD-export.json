@@ -1,0 +1,2098 @@
+{
+    "name": "StopSignsOD",
+    "securityToken": "StopSignsOD Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Stop sign",
+            "color": "#5db300"
+        }
+    ],
+    "id": "hiadVljED",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "deaf04a8f86d40b5782ef37ebe47ee56",
+    "assets": {
+        "deaf04a8f86d40b5782ef37ebe47ee56": {
+            "asset": {
+                "format": "jpg",
+                "id": "deaf04a8f86d40b5782ef37ebe47ee56",
+                "name": "sam-xu-FgY6bF6emj0-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/sam-xu-FgY6bF6emj0-unsplash.jpg",
+                "size": {
+                    "width": 4344,
+                    "height": 2896
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "rEMEvHkVI",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 546.951965065502,
+                        "width": 562.7598253275108,
+                        "left": 2720.5327510917027,
+                        "top": 420.4890829694323
+                    },
+                    "points": [
+                        {
+                            "x": 2720.5327510917027,
+                            "y": 420.4890829694323
+                        },
+                        {
+                            "x": 3283.2925764192137,
+                            "y": 420.4890829694323
+                        },
+                        {
+                            "x": 3283.2925764192137,
+                            "y": 967.4410480349343
+                        },
+                        {
+                            "x": 2720.5327510917027,
+                            "y": 967.4410480349343
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a0c688422482fd1ae9be160df6b8f1a1": {
+            "asset": {
+                "format": "jpg",
+                "id": "a0c688422482fd1ae9be160df6b8f1a1",
+                "name": "ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+                "size": {
+                    "width": 5168,
+                    "height": 3448
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "crI7234uR",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 444.174672489083,
+                        "width": 459.21048798252,
+                        "left": 2412.619446467589,
+                        "top": 1633.6593886462883
+                    },
+                    "points": [
+                        {
+                            "x": 2412.619446467589,
+                            "y": 1633.6593886462883
+                        },
+                        {
+                            "x": 2871.8299344501092,
+                            "y": 1633.6593886462883
+                        },
+                        {
+                            "x": 2871.8299344501092,
+                            "y": 2077.834061135371
+                        },
+                        {
+                            "x": 2412.619446467589,
+                            "y": 2077.834061135371
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "b11ba4c3ef653db54f3a0f5729e002d4": {
+            "asset": {
+                "format": "jpg",
+                "id": "b11ba4c3ef653db54f3a0f5729e002d4",
+                "name": "jon-tyson-1IqQDH6KgdU-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jon-tyson-1IqQDH6KgdU-unsplash.jpg",
+                "size": {
+                    "width": 2918,
+                    "height": 3890
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "bSuLhAice",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2463.1004366812226,
+                        "width": 2446.532751091703,
+                        "left": 199.89574235807862,
+                        "top": 666.735807860262
+                    },
+                    "points": [
+                        {
+                            "x": 199.89574235807862,
+                            "y": 666.735807860262
+                        },
+                        {
+                            "x": 2646.428493449782,
+                            "y": 666.735807860262
+                        },
+                        {
+                            "x": 2646.428493449782,
+                            "y": 3129.8362445414846
+                        },
+                        {
+                            "x": 199.89574235807862,
+                            "y": 3129.8362445414846
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2fc987a1b634b50bd8c929499dbd0564": {
+            "asset": {
+                "format": "jpg",
+                "id": "2fc987a1b634b50bd8c929499dbd0564",
+                "name": "john-matychuk-dJdcb11aboQ-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/john-matychuk-dJdcb11aboQ-unsplash.jpg",
+                "size": {
+                    "width": 5402,
+                    "height": 3601
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "jNZk5cdH-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1525.3144104803494,
+                        "width": 1560.839883551674,
+                        "left": 1909.09245360262,
+                        "top": 1006.3930131004366
+                    },
+                    "points": [
+                        {
+                            "x": 1909.09245360262,
+                            "y": 1006.3930131004366
+                        },
+                        {
+                            "x": 3469.932337154294,
+                            "y": 1006.3930131004366
+                        },
+                        {
+                            "x": 3469.932337154294,
+                            "y": 2531.707423580786
+                        },
+                        {
+                            "x": 1909.09245360262,
+                            "y": 2531.707423580786
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "53a3b17f5bffb9a8710e24cf7e688ef5": {
+            "asset": {
+                "format": "jpg",
+                "id": "53a3b17f5bffb9a8710e24cf7e688ef5",
+                "name": "pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+                "size": {
+                    "width": 2271,
+                    "height": 2271
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "kfnI-UXjn",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 647.0862445414847,
+                        "width": 513.2063318777292,
+                        "left": 893.7723799126637,
+                        "top": 1375.9879912663755
+                    },
+                    "points": [
+                        {
+                            "x": 893.7723799126637,
+                            "y": 1375.9879912663755
+                        },
+                        {
+                            "x": 1406.978711790393,
+                            "y": 1375.9879912663755
+                        },
+                        {
+                            "x": 1406.978711790393,
+                            "y": 2023.0742358078603
+                        },
+                        {
+                            "x": 893.7723799126637,
+                            "y": 2023.0742358078603
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "5f35a6af40c001749a911b27d273c9a6": {
+            "asset": {
+                "format": "jpg",
+                "id": "5f35a6af40c001749a911b27d273c9a6",
+                "name": "olivia-connell-Tc9KWrlOL0E-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/olivia-connell-Tc9KWrlOL0E-unsplash.jpg",
+                "size": {
+                    "width": 2134,
+                    "height": 3000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "GTwSmcKIG",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 104.80349344978166,
+                        "width": 91.6441717791411,
+                        "left": 1326.5391583588957,
+                        "top": 1650.655021834061
+                    },
+                    "points": [
+                        {
+                            "x": 1326.5391583588957,
+                            "y": 1650.655021834061
+                        },
+                        {
+                            "x": 1418.1833301380368,
+                            "y": 1650.655021834061
+                        },
+                        {
+                            "x": 1418.1833301380368,
+                            "y": 1755.4585152838426
+                        },
+                        {
+                            "x": 1326.5391583588957,
+                            "y": 1755.4585152838426
+                        }
+                    ]
+                },
+                {
+                    "id": "rnred8Gvf",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 55.6768558951965,
+                        "width": 55.641104294478524,
+                        "left": 1117.066765720859,
+                        "top": 1545.8515283842794
+                    },
+                    "points": [
+                        {
+                            "x": 1117.066765720859,
+                            "y": 1545.8515283842794
+                        },
+                        {
+                            "x": 1172.7078700153374,
+                            "y": 1545.8515283842794
+                        },
+                        {
+                            "x": 1172.7078700153374,
+                            "y": 1601.5283842794759
+                        },
+                        {
+                            "x": 1117.066765720859,
+                            "y": 1601.5283842794759
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2e0a2913dc1f4410ad03b299ea0562e4": {
+            "asset": {
+                "format": "jpg",
+                "id": "2e0a2913dc1f4410ad03b299ea0562e4",
+                "name": "naina-vij--j35s3zjPKU-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/naina-vij--j35s3zjPKU-unsplash.jpg",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "ZEepTrZvy",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 3151.6506550218337,
+                        "width": 3006.3930131004363,
+                        "left": 17.606986899563317,
+                        "top": 488.59388646288204
+                    },
+                    "points": [
+                        {
+                            "x": 17.606986899563317,
+                            "y": 488.59388646288204
+                        },
+                        {
+                            "x": 3023.9999999999995,
+                            "y": 488.59388646288204
+                        },
+                        {
+                            "x": 3023.9999999999995,
+                            "y": 3640.2445414847157
+                        },
+                        {
+                            "x": 17.606986899563317,
+                            "y": 3640.2445414847157
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "12a07e18dfd16044e3e0d06258326291": {
+            "asset": {
+                "format": "jpg",
+                "id": "12a07e18dfd16044e3e0d06258326291",
+                "name": "melanie-these-mXIViwsTvIc-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/melanie-these-mXIViwsTvIc-unsplash.jpg",
+                "size": {
+                    "width": 3168,
+                    "height": 4752
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "rZ6a8LxgC",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1748.2794759825329,
+                        "width": 1778.4353518821604,
+                        "left": 688.7872340425531,
+                        "top": 679.5982532751092
+                    },
+                    "points": [
+                        {
+                            "x": 688.7872340425531,
+                            "y": 679.5982532751092
+                        },
+                        {
+                            "x": 2467.2225859247133,
+                            "y": 679.5982532751092
+                        },
+                        {
+                            "x": 2467.2225859247133,
+                            "y": 2427.877729257642
+                        },
+                        {
+                            "x": 688.7872340425531,
+                            "y": 2427.877729257642
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a372499a84a235243bffc8b4e92254de": {
+            "asset": {
+                "format": "jpg",
+                "id": "a372499a84a235243bffc8b4e92254de",
+                "name": "mason-wilkes-q-nm36mpsDw-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/mason-wilkes-q-nm36mpsDw-unsplash.jpg",
+                "size": {
+                    "width": 5610,
+                    "height": 3740
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "iGwMF5mE-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 424.6288209606987,
+                        "width": 432.7947598253275,
+                        "left": 851.2991266375545,
+                        "top": 1057.4890829694323
+                    },
+                    "points": [
+                        {
+                            "x": 851.2991266375545,
+                            "y": 1057.4890829694323
+                        },
+                        {
+                            "x": 1284.093886462882,
+                            "y": 1057.4890829694323
+                        },
+                        {
+                            "x": 1284.093886462882,
+                            "y": 1482.117903930131
+                        },
+                        {
+                            "x": 851.2991266375545,
+                            "y": 1482.117903930131
+                        }
+                    ]
+                },
+                {
+                    "id": "Lexj3eRjf",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 416.46288209606985,
+                        "width": 416.46288209606985,
+                        "left": 3950.272925764192,
+                        "top": 1000.3275109170305
+                    },
+                    "points": [
+                        {
+                            "x": 3950.272925764192,
+                            "y": 1000.3275109170305
+                        },
+                        {
+                            "x": 4366.735807860262,
+                            "y": 1000.3275109170305
+                        },
+                        {
+                            "x": 4366.735807860262,
+                            "y": 1416.7903930131004
+                        },
+                        {
+                            "x": 3950.272925764192,
+                            "y": 1416.7903930131004
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "b04035a7bdc4b3e63dc90fcfccb9b065": {
+            "asset": {
+                "format": "jpg",
+                "id": "b04035a7bdc4b3e63dc90fcfccb9b065",
+                "name": "marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+                "size": {
+                    "width": 4752,
+                    "height": 3168
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "nc_uVdQwe",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1321.1528384279477,
+                        "width": 975.3013100436682,
+                        "left": 1734.4454148471616,
+                        "top": 899.2139737991266
+                    },
+                    "points": [
+                        {
+                            "x": 1734.4454148471616,
+                            "y": 899.2139737991266
+                        },
+                        {
+                            "x": 2709.7467248908297,
+                            "y": 899.2139737991266
+                        },
+                        {
+                            "x": 2709.7467248908297,
+                            "y": 2220.366812227074
+                        },
+                        {
+                            "x": 1734.4454148471616,
+                            "y": 2220.366812227074
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "b07d35f3328fc1247cdc53cbd2bbef53": {
+            "asset": {
+                "format": "jpg",
+                "id": "b07d35f3328fc1247cdc53cbd2bbef53",
+                "name": "luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+                "size": {
+                    "width": 3376,
+                    "height": 6000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "d9LnsJ_zK",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2659.3886462882097,
+                        "width": 2005.9339805825243,
+                        "left": 158.6597087378641,
+                        "top": 0
+                    },
+                    "points": [
+                        {
+                            "x": 158.6597087378641,
+                            "y": 0
+                        },
+                        {
+                            "x": 2164.5936893203884,
+                            "y": 0
+                        },
+                        {
+                            "x": 2164.5936893203884,
+                            "y": 2659.3886462882097
+                        },
+                        {
+                            "x": 158.6597087378641,
+                            "y": 2659.3886462882097
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0806cf5708e49fc684e97338c6bac94d": {
+            "asset": {
+                "format": "jpg",
+                "id": "0806cf5708e49fc684e97338c6bac94d",
+                "name": "kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+                "size": {
+                    "width": 6016,
+                    "height": 4000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "cYzk6hV0G",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 681.2227074235808,
+                        "width": 702.8853410740204,
+                        "left": 4415.271407837446,
+                        "top": 1868.9956331877734
+                    },
+                    "points": [
+                        {
+                            "x": 4415.271407837446,
+                            "y": 1868.9956331877734
+                        },
+                        {
+                            "x": 5118.156748911466,
+                            "y": 1868.9956331877734
+                        },
+                        {
+                            "x": 5118.156748911466,
+                            "y": 2550.2183406113545
+                        },
+                        {
+                            "x": 4415.271407837446,
+                            "y": 2550.2183406113545
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "64aa61f3fd2a66f54cbfd0cbe99416f5": {
+            "asset": {
+                "format": "jpg",
+                "id": "64aa61f3fd2a66f54cbfd0cbe99416f5",
+                "name": "kevin-lee-dU8dAD8KoOI-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kevin-lee-dU8dAD8KoOI-unsplash.jpg",
+                "size": {
+                    "width": 4000,
+                    "height": 6000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "EgKddmmuj",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 255.4585152838428,
+                        "width": 274.95908346972175,
+                        "left": 411.41571194762685,
+                        "top": 3006.550218340611
+                    },
+                    "points": [
+                        {
+                            "x": 411.41571194762685,
+                            "y": 3006.550218340611
+                        },
+                        {
+                            "x": 686.3747954173485,
+                            "y": 3006.550218340611
+                        },
+                        {
+                            "x": 686.3747954173485,
+                            "y": 3262.008733624454
+                        },
+                        {
+                            "x": 411.41571194762685,
+                            "y": 3262.008733624454
+                        }
+                    ]
+                },
+                {
+                    "id": "-vDjPip3T",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 262.0087336244541,
+                        "width": 268.4124386252046,
+                        "left": 3206.8330605564647,
+                        "top": 2868.995633187773
+                    },
+                    "points": [
+                        {
+                            "x": 3206.8330605564647,
+                            "y": 2868.995633187773
+                        },
+                        {
+                            "x": 3475.2454991816694,
+                            "y": 2868.995633187773
+                        },
+                        {
+                            "x": 3475.2454991816694,
+                            "y": 3131.004366812227
+                        },
+                        {
+                            "x": 3206.8330605564647,
+                            "y": 3131.004366812227
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c9405cf18daadccc860e30849d006e0a": {
+            "asset": {
+                "format": "jpg",
+                "id": "c9405cf18daadccc860e30849d006e0a",
+                "name": "kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+                "size": {
+                    "width": 5568,
+                    "height": 3250
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "R3piK1AIN",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 176.50531286894923,
+                        "width": 188.0303239145417,
+                        "left": 3380.708476912474,
+                        "top": 1529.0132452774499
+                    },
+                    "points": [
+                        {
+                            "x": 3380.708476912474,
+                            "y": 1529.0132452774499
+                        },
+                        {
+                            "x": 3568.738800827016,
+                            "y": 1529.0132452774499
+                        },
+                        {
+                            "x": 3568.738800827016,
+                            "y": 1705.518558146399
+                        },
+                        {
+                            "x": 3380.708476912474,
+                            "y": 1705.518558146399
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "89454a321a5f1372902d8b88fb6ea360": {
+            "asset": {
+                "format": "jpg",
+                "id": "89454a321a5f1372902d8b88fb6ea360",
+                "name": "juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+                "size": {
+                    "width": 4288,
+                    "height": 2848
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Qv5Cbr8Vw",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1063.3362445414848,
+                        "width": 1019.9158810732414,
+                        "left": 2043.1841914430745,
+                        "top": 879.8951965065503
+                    },
+                    "points": [
+                        {
+                            "x": 2043.1841914430745,
+                            "y": 879.8951965065503
+                        },
+                        {
+                            "x": 3063.100072516316,
+                            "y": 879.8951965065503
+                        },
+                        {
+                            "x": 3063.100072516316,
+                            "y": 1943.231441048035
+                        },
+                        {
+                            "x": 2043.1841914430745,
+                            "y": 1943.231441048035
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "db6900dd8bb530d9a250365a30ea71cc": {
+            "asset": {
+                "format": "jpg",
+                "id": "db6900dd8bb530d9a250365a30ea71cc",
+                "name": "joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+                "size": {
+                    "width": 4814,
+                    "height": 3209
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "QyehuAd9U",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2539.8744541484716,
+                        "width": 2540.138282387191,
+                        "left": 1277.3501410116448,
+                        "top": 402.87663755458516
+                    },
+                    "points": [
+                        {
+                            "x": 1277.3501410116448,
+                            "y": 402.87663755458516
+                        },
+                        {
+                            "x": 3817.488423398836,
+                            "y": 402.87663755458516
+                        },
+                        {
+                            "x": 3817.488423398836,
+                            "y": 2942.7510917030568
+                        },
+                        {
+                            "x": 1277.3501410116448,
+                            "y": 2942.7510917030568
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "b63ab57e8c1ac52711a3cefbfda4a1a0": {
+            "asset": {
+                "format": "jpg",
+                "id": "b63ab57e8c1ac52711a3cefbfda4a1a0",
+                "name": "josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+                "size": {
+                    "width": 3000,
+                    "height": 2000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "NhNg7hs1y",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 203.05676855895197,
+                        "width": 203.05676855895197,
+                        "left": 1210.698689956332,
+                        "top": 718.3406113537119
+                    },
+                    "points": [
+                        {
+                            "x": 1210.698689956332,
+                            "y": 718.3406113537119
+                        },
+                        {
+                            "x": 1413.7554585152839,
+                            "y": 718.3406113537119
+                        },
+                        {
+                            "x": 1413.7554585152839,
+                            "y": 921.3973799126638
+                        },
+                        {
+                            "x": 1210.698689956332,
+                            "y": 921.3973799126638
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "99e35cd6066453fa52cbfd44d5c50277": {
+            "asset": {
+                "format": "jpg",
+                "id": "99e35cd6066453fa52cbfd44d5c50277",
+                "name": "jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "ZLHO5oagu",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 206.88209606986896,
+                        "width": 215.68558951965065,
+                        "left": 1989.589519650655,
+                        "top": 2033.606986899563
+                    },
+                    "points": [
+                        {
+                            "x": 1989.589519650655,
+                            "y": 2033.606986899563
+                        },
+                        {
+                            "x": 2205.2751091703053,
+                            "y": 2033.606986899563
+                        },
+                        {
+                            "x": 2205.2751091703053,
+                            "y": 2240.4890829694323
+                        },
+                        {
+                            "x": 1989.589519650655,
+                            "y": 2240.4890829694323
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "e669acecaff8aaea5f55657d0ea1a392": {
+            "asset": {
+                "format": "jpg",
+                "id": "e669acecaff8aaea5f55657d0ea1a392",
+                "name": "jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+                "size": {
+                    "width": 2686,
+                    "height": 3576
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "M4Iz8GPRq",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 546.5502183406113,
+                        "width": 534.857558139535,
+                        "left": 630.5682685319767,
+                        "top": 936.943231441048
+                    },
+                    "points": [
+                        {
+                            "x": 630.5682685319767,
+                            "y": 936.943231441048
+                        },
+                        {
+                            "x": 1165.4258266715117,
+                            "y": 936.943231441048
+                        },
+                        {
+                            "x": 1165.4258266715117,
+                            "y": 1483.4934497816594
+                        },
+                        {
+                            "x": 630.5682685319767,
+                            "y": 1483.4934497816594
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "fcb9303c07f92dd61b868f64d848069e": {
+            "asset": {
+                "format": "jpg",
+                "id": "fcb9303c07f92dd61b868f64d848069e",
+                "name": "joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+                "size": {
+                    "width": 2533,
+                    "height": 3784
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "n2K_ON2Tr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 446.1484716157205,
+                        "width": 268.5889070146819,
+                        "left": 1405.313978384992,
+                        "top": 2842.131004366812
+                    },
+                    "points": [
+                        {
+                            "x": 1405.313978384992,
+                            "y": 2842.131004366812
+                        },
+                        {
+                            "x": 1673.9028853996738,
+                            "y": 2842.131004366812
+                        },
+                        {
+                            "x": 1673.9028853996738,
+                            "y": 3288.2794759825324
+                        },
+                        {
+                            "x": 1405.313978384992,
+                            "y": 3288.2794759825324
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "95aa9887184c51de94b9c4f12655877f": {
+            "asset": {
+                "format": "jpg",
+                "id": "95aa9887184c51de94b9c4f12655877f",
+                "name": "jad-limcaco-Y_J0phaFy2g-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/jad-limcaco-Y_J0phaFy2g-unsplash.jpg",
+                "size": {
+                    "width": 4895,
+                    "height": 2992
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "SLL_AG8sG",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 536.3337091319053,
+                        "width": 543.1392143349414,
+                        "left": 2442.4396967608545,
+                        "top": 561.4743517474633
+                    },
+                    "points": [
+                        {
+                            "x": 2442.4396967608545,
+                            "y": 561.4743517474633
+                        },
+                        {
+                            "x": 2985.578911095796,
+                            "y": 561.4743517474633
+                        },
+                        {
+                            "x": 2985.578911095796,
+                            "y": 1097.8080608793687
+                        },
+                        {
+                            "x": 2442.4396967608545,
+                            "y": 1097.8080608793687
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "16fff86120f1f8ec74434963ff926b27": {
+            "asset": {
+                "format": "jpg",
+                "id": "16fff86120f1f8ec74434963ff926b27",
+                "name": "giorgio-trovato-7PUrk4B18tY-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/giorgio-trovato-7PUrk4B18tY-unsplash.jpg",
+                "size": {
+                    "width": 5596,
+                    "height": 3731
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "gk8eJsC3v",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 460.2652838427947,
+                        "width": 219.9301310043668,
+                        "left": 3292.651883187773,
+                        "top": 1254.5283842794759
+                    },
+                    "points": [
+                        {
+                            "x": 3292.651883187773,
+                            "y": 1254.5283842794759
+                        },
+                        {
+                            "x": 3512.5820141921395,
+                            "y": 1254.5283842794759
+                        },
+                        {
+                            "x": 3512.5820141921395,
+                            "y": 1714.7936681222707
+                        },
+                        {
+                            "x": 3292.651883187773,
+                            "y": 1714.7936681222707
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "aa2c1cdfca127c049f1aaff25c9b9c67": {
+            "asset": {
+                "format": "jpg",
+                "id": "aa2c1cdfca127c049f1aaff25c9b9c67",
+                "name": "free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+                "size": {
+                    "width": 2832,
+                    "height": 4240
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "ifkXHPI9o",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 717.4672489082969,
+                        "width": 745.0196078431374,
+                        "left": 1038.5012254901962,
+                        "top": 893.3624454148471
+                    },
+                    "points": [
+                        {
+                            "x": 1038.5012254901962,
+                            "y": 893.3624454148471
+                        },
+                        {
+                            "x": 1783.5208333333335,
+                            "y": 893.3624454148471
+                        },
+                        {
+                            "x": 1783.5208333333335,
+                            "y": 1610.829694323144
+                        },
+                        {
+                            "x": 1038.5012254901962,
+                            "y": 1610.829694323144
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "dee5bfb2f984784b1b1ddef5ba069978": {
+            "asset": {
+                "format": "jpg",
+                "id": "dee5bfb2f984784b1b1ddef5ba069978",
+                "name": "emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+                "size": {
+                    "width": 2647,
+                    "height": 2647
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "dIdNcRt5e",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 262.96615720524017,
+                        "width": 245.6277292576419,
+                        "left": 1570.5725982532751,
+                        "top": 1121.2183406113536
+                    },
+                    "points": [
+                        {
+                            "x": 1570.5725982532751,
+                            "y": 1121.2183406113536
+                        },
+                        {
+                            "x": 1816.2003275109168,
+                            "y": 1121.2183406113536
+                        },
+                        {
+                            "x": 1816.2003275109168,
+                            "y": 1384.1844978165939
+                        },
+                        {
+                            "x": 1570.5725982532751,
+                            "y": 1384.1844978165939
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "1202aa50b3676683f06d0c79a410abea": {
+            "asset": {
+                "format": "jpg",
+                "id": "1202aa50b3676683f06d0c79a410abea",
+                "name": "eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+                "size": {
+                    "width": 4912,
+                    "height": 3264
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Q5MdypRb2",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 320.69868995633186,
+                        "width": 335.0711175616836,
+                        "left": 2693.9361393323657,
+                        "top": 1557.1703056768558
+                    },
+                    "points": [
+                        {
+                            "x": 2693.9361393323657,
+                            "y": 1557.1703056768558
+                        },
+                        {
+                            "x": 3029.0072568940495,
+                            "y": 1557.1703056768558
+                        },
+                        {
+                            "x": 3029.0072568940495,
+                            "y": 1877.8689956331878
+                        },
+                        {
+                            "x": 2693.9361393323657,
+                            "y": 1877.8689956331878
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "7f148758a76659866f90f951bf799fce": {
+            "asset": {
+                "format": "jpg",
+                "id": "7f148758a76659866f90f951bf799fce",
+                "name": "doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+                "size": {
+                    "width": 2823,
+                    "height": 2823
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "w4u2u5cSm",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 496.18231441048033,
+                        "width": 496.18231441048033,
+                        "left": 648.7352620087336,
+                        "top": 1374.5174672489081
+                    },
+                    "points": [
+                        {
+                            "x": 648.7352620087336,
+                            "y": 1374.5174672489081
+                        },
+                        {
+                            "x": 1144.917576419214,
+                            "y": 1374.5174672489081
+                        },
+                        {
+                            "x": 1144.917576419214,
+                            "y": 1870.6997816593885
+                        },
+                        {
+                            "x": 648.7352620087336,
+                            "y": 1870.6997816593885
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "e1cb9aa9c3a5a34bd8cff88abdfc6d2e": {
+            "asset": {
+                "format": "jpg",
+                "id": "e1cb9aa9c3a5a34bd8cff88abdfc6d2e",
+                "name": "diego-lozano-AmZC7bCrsko-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/diego-lozano-AmZC7bCrsko-unsplash.jpg",
+                "size": {
+                    "width": 6000,
+                    "height": 4000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "n5qtAqxzO",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1868.9956331877731,
+                        "width": 1462.882096069869,
+                        "left": 2141.921397379913,
+                        "top": 960.6986899563319
+                    },
+                    "points": [
+                        {
+                            "x": 2141.921397379913,
+                            "y": 960.6986899563319
+                        },
+                        {
+                            "x": 3604.803493449782,
+                            "y": 960.6986899563319
+                        },
+                        {
+                            "x": 3604.803493449782,
+                            "y": 2829.694323144105
+                        },
+                        {
+                            "x": 2141.921397379913,
+                            "y": 2829.694323144105
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0abdabf4f7d03c7211e01d5ae096e756": {
+            "asset": {
+                "format": "jpg",
+                "id": "0abdabf4f7d03c7211e01d5ae096e756",
+                "name": "david-preston-mW2NETqR49A-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/david-preston-mW2NETqR49A-unsplash.jpg",
+                "size": {
+                    "width": 3500,
+                    "height": 2500
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "U7W9hdSFh",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 521.2882096069869,
+                        "width": 384.94539781591266,
+                        "left": 1861.1239762090486,
+                        "top": 821.5065502183406
+                    },
+                    "points": [
+                        {
+                            "x": 1861.1239762090486,
+                            "y": 821.5065502183406
+                        },
+                        {
+                            "x": 2246.0693740249612,
+                            "y": 821.5065502183406
+                        },
+                        {
+                            "x": 2246.0693740249612,
+                            "y": 1342.7947598253274
+                        },
+                        {
+                            "x": 1861.1239762090486,
+                            "y": 1342.7947598253274
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "947990ea521c0725ea91fa3216736296": {
+            "asset": {
+                "format": "jpg",
+                "id": "947990ea521c0725ea91fa3216736296",
+                "name": "david-preston--t7S0WPRr4E-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/david-preston--t7S0WPRr4E-unsplash.jpg",
+                "size": {
+                    "width": 2705,
+                    "height": 3500
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Aickjbr8M",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 481.4410480349345,
+                        "width": 466.11581920903956,
+                        "left": 746.8121027542372,
+                        "top": 1203.6026200873364
+                    },
+                    "points": [
+                        {
+                            "x": 746.8121027542372,
+                            "y": 1203.6026200873364
+                        },
+                        {
+                            "x": 1212.9279219632767,
+                            "y": 1203.6026200873364
+                        },
+                        {
+                            "x": 1212.9279219632767,
+                            "y": 1685.043668122271
+                        },
+                        {
+                            "x": 746.8121027542372,
+                            "y": 1685.043668122271
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "de388812d3bc75081cc2857e05de6d2f": {
+            "asset": {
+                "format": "jpg",
+                "id": "de388812d3bc75081cc2857e05de6d2f",
+                "name": "chris-benson-h0UG2Bd_Few-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/chris-benson-h0UG2Bd_Few-unsplash.jpg",
+                "size": {
+                    "width": 4096,
+                    "height": 2303
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "KfTUYViOT",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 191.91666666666666,
+                        "width": 206.07029634734664,
+                        "left": 728.3032391454169,
+                        "top": 451.34813495710785
+                    },
+                    "points": [
+                        {
+                            "x": 728.3032391454169,
+                            "y": 451.34813495710785
+                        },
+                        {
+                            "x": 934.3735354927636,
+                            "y": 451.34813495710785
+                        },
+                        {
+                            "x": 934.3735354927636,
+                            "y": 643.2648016237745
+                        },
+                        {
+                            "x": 728.3032391454169,
+                            "y": 643.2648016237745
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a08e2820c575c8696f663a9bbad75bf2": {
+            "asset": {
+                "format": "jpg",
+                "id": "a08e2820c575c8696f663a9bbad75bf2",
+                "name": "chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+                "size": {
+                    "width": 5184,
+                    "height": 3888
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "USmIX-Sd4",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 594.235807860262,
+                        "width": 577.4152334152334,
+                        "left": 1210.7542997542996,
+                        "top": 1001.7117903930131
+                    },
+                    "points": [
+                        {
+                            "x": 1210.7542997542996,
+                            "y": 1001.7117903930131
+                        },
+                        {
+                            "x": 1788.169533169533,
+                            "y": 1001.7117903930131
+                        },
+                        {
+                            "x": 1788.169533169533,
+                            "y": 1595.947598253275
+                        },
+                        {
+                            "x": 1210.7542997542996,
+                            "y": 1595.947598253275
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "53e2a96f67db70846cb20bf30adfc0e5": {
+            "asset": {
+                "format": "jpg",
+                "id": "53e2a96f67db70846cb20bf30adfc0e5",
+                "name": "brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+                "size": {
+                    "width": 2603,
+                    "height": 3904
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "gSnD9R6Mr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 200.31441048034935,
+                        "width": 161.8887070376432,
+                        "left": 1209.3725450081831,
+                        "top": 1142.2183406113538
+                    },
+                    "points": [
+                        {
+                            "x": 1209.3725450081831,
+                            "y": 1142.2183406113538
+                        },
+                        {
+                            "x": 1371.2612520458265,
+                            "y": 1142.2183406113538
+                        },
+                        {
+                            "x": 1371.2612520458265,
+                            "y": 1342.5327510917032
+                        },
+                        {
+                            "x": 1209.3725450081831,
+                            "y": 1342.5327510917032
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0ffded510a67977ba7dbd988b34b2f0e": {
+            "asset": {
+                "format": "jpg",
+                "id": "0ffded510a67977ba7dbd988b34b2f0e",
+                "name": "branden-tate-XgEHOPn7h_E-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/branden-tate-XgEHOPn7h_E-unsplash.jpg",
+                "size": {
+                    "width": 5184,
+                    "height": 3456
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "ez_-egsrZ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 988.5065502183406,
+                        "width": 969.6419213973799,
+                        "left": 2231.6855895196504,
+                        "top": 1214.882096069869
+                    },
+                    "points": [
+                        {
+                            "x": 2231.6855895196504,
+                            "y": 1214.882096069869
+                        },
+                        {
+                            "x": 3201.3275109170304,
+                            "y": 1214.882096069869
+                        },
+                        {
+                            "x": 3201.3275109170304,
+                            "y": 2203.3886462882097
+                        },
+                        {
+                            "x": 2231.6855895196504,
+                            "y": 2203.3886462882097
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "e7d5730a40c535e412047b2ccdeb5934": {
+            "asset": {
+                "format": "jpg",
+                "id": "e7d5730a40c535e412047b2ccdeb5934",
+                "name": "bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+                "size": {
+                    "width": 3456,
+                    "height": 5184
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "-fNKP2OOg",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1612.9257641921397,
+                        "width": 1487.607201309329,
+                        "left": 994.6252045826515,
+                        "top": 1165.8340611353713
+                    },
+                    "points": [
+                        {
+                            "x": 994.6252045826515,
+                            "y": 1165.8340611353713
+                        },
+                        {
+                            "x": 2482.2324058919803,
+                            "y": 1165.8340611353713
+                        },
+                        {
+                            "x": 2482.2324058919803,
+                            "y": 2778.759825327511
+                        },
+                        {
+                            "x": 994.6252045826515,
+                            "y": 2778.759825327511
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "cf51391871742d076f6a1ddce3965bdc": {
+            "asset": {
+                "format": "jpg",
+                "id": "cf51391871742d076f6a1ddce3965bdc",
+                "name": "ben-mater-YO3iFGBN6TU-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ben-mater-YO3iFGBN6TU-unsplash.jpg",
+                "size": {
+                    "width": 5472,
+                    "height": 3648
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "zraSLHUDW",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2508.995633187773,
+                        "width": 2222.2532751091703,
+                        "left": 1738.3755458515284,
+                        "top": 521.7117903930131
+                    },
+                    "points": [
+                        {
+                            "x": 1738.3755458515284,
+                            "y": 521.7117903930131
+                        },
+                        {
+                            "x": 3960.6288209606987,
+                            "y": 521.7117903930131
+                        },
+                        {
+                            "x": 3960.6288209606987,
+                            "y": 3030.707423580786
+                        },
+                        {
+                            "x": 1738.3755458515284,
+                            "y": 3030.707423580786
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "6ce86aa7f4d644a74735e84ce9dff8c2": {
+            "asset": {
+                "format": "jpg",
+                "id": "6ce86aa7f4d644a74735e84ce9dff8c2",
+                "name": "arthur-osipyan-vLusIJAYy_Q-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/arthur-osipyan-vLusIJAYy_Q-unsplash.jpg",
+                "size": {
+                    "width": 2738,
+                    "height": 1825
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "ISjFQBTPW",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 239.0829694323144,
+                        "width": 225.17758369723435,
+                        "left": 387.86465156477436,
+                        "top": 705.2947598253274
+                    },
+                    "points": [
+                        {
+                            "x": 387.86465156477436,
+                            "y": 705.2947598253274
+                        },
+                        {
+                            "x": 613.0422352620087,
+                            "y": 705.2947598253274
+                        },
+                        {
+                            "x": 613.0422352620087,
+                            "y": 944.3777292576419
+                        },
+                        {
+                            "x": 387.86465156477436,
+                            "y": 944.3777292576419
+                        }
+                    ]
+                },
+                {
+                    "id": "p0Xts66tA",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 253.02947598253274,
+                        "width": 255.0684133915575,
+                        "left": 1946.173239628821,
+                        "top": 782.9967248908297
+                    },
+                    "points": [
+                        {
+                            "x": 1946.173239628821,
+                            "y": 782.9967248908297
+                        },
+                        {
+                            "x": 2201.2416530203786,
+                            "y": 782.9967248908297
+                        },
+                        {
+                            "x": 2201.2416530203786,
+                            "y": 1036.0262008733623
+                        },
+                        {
+                            "x": 1946.173239628821,
+                            "y": 1036.0262008733623
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "bcff0ef490ed869a65f5a7f270762d97": {
+            "asset": {
+                "format": "jpg",
+                "id": "bcff0ef490ed869a65f5a7f270762d97",
+                "name": "anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+                "size": {
+                    "width": 3008,
+                    "height": 2000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "YgUZw5Tru",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 334.0611353711791,
+                        "width": 336.1625544267054,
+                        "left": 793.133526850508,
+                        "top": 189.95633187772927
+                    },
+                    "points": [
+                        {
+                            "x": 793.133526850508,
+                            "y": 189.95633187772927
+                        },
+                        {
+                            "x": 1129.2960812772135,
+                            "y": 189.95633187772927
+                        },
+                        {
+                            "x": 1129.2960812772135,
+                            "y": 524.0174672489084
+                        },
+                        {
+                            "x": 793.133526850508,
+                            "y": 524.0174672489084
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "84902e8a474d329b3ee59dd66cc7536f": {
+            "asset": {
+                "format": "jpg",
+                "id": "84902e8a474d329b3ee59dd66cc7536f",
+                "name": "andrii-leonov-W_rQAwVRPgg-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/andrii-leonov-W_rQAwVRPgg-unsplash.jpg",
+                "size": {
+                    "width": 2917,
+                    "height": 3890
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "aaHQR5kIv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1401.419213973799,
+                        "width": 1452.1310043668122,
+                        "left": 802.2944186681223,
+                        "top": 1422.6528384279475
+                    },
+                    "points": [
+                        {
+                            "x": 802.2944186681223,
+                            "y": 1422.6528384279475
+                        },
+                        {
+                            "x": 2254.4254230349343,
+                            "y": 1422.6528384279475
+                        },
+                        {
+                            "x": 2254.4254230349343,
+                            "y": 2824.0720524017465
+                        },
+                        {
+                            "x": 802.2944186681223,
+                            "y": 2824.0720524017465
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0622677d8537fa0105bdd6ffeb599552": {
+            "asset": {
+                "format": "jpg",
+                "id": "0622677d8537fa0105bdd6ffeb599552",
+                "name": "alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg",
+                "size": {
+                    "width": 4309,
+                    "height": 2426
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "XUcJmhCrM",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 166.28641370869033,
+                        "width": 172.24121295658168,
+                        "left": 2800.404548587181,
+                        "top": 1723.6440483476133
+                    },
+                    "points": [
+                        {
+                            "x": 2800.404548587181,
+                            "y": 1723.6440483476133
+                        },
+                        {
+                            "x": 2972.645761543763,
+                            "y": 1723.6440483476133
+                        },
+                        {
+                            "x": 2972.645761543763,
+                            "y": 1889.9304620563037
+                        },
+                        {
+                            "x": 2800.404548587181,
+                            "y": 1889.9304620563037
+                        }
+                    ]
+                },
+                {
+                    "id": "YGIp_Jwrv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 151.4394124847001,
+                        "width": 145.51412818745692,
+                        "left": 1315.566505858029,
+                        "top": 1744.4298500611994
+                    },
+                    "points": [
+                        {
+                            "x": 1315.566505858029,
+                            "y": 1744.4298500611994
+                        },
+                        {
+                            "x": 1461.0806340454858,
+                            "y": 1744.4298500611994
+                        },
+                        {
+                            "x": 1461.0806340454858,
+                            "y": 1895.8692625458996
+                        },
+                        {
+                            "x": 1315.566505858029,
+                            "y": 1895.8692625458996
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "b4858d34b1f6200283f749e10a82ed4c": {
+            "asset": {
+                "format": "jpg",
+                "id": "b4858d34b1f6200283f749e10a82ed4c",
+                "name": "ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+                "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+                "size": {
+                    "width": 3553,
+                    "height": 4737
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "YOM4kopSV",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop sign"
+                    ],
+                    "boundingBox": {
+                        "height": 144.7991266375546,
+                        "width": 149.98107714701598,
+                        "left": 3294.5735534934493,
+                        "top": 2994.2390829694327
+                    },
+                    "points": [
+                        {
+                            "x": 3294.5735534934493,
+                            "y": 2994.2390829694327
+                        },
+                        {
+                            "x": 3444.554630640466,
+                            "y": 2994.2390829694327
+                        },
+                        {
+                            "x": 3444.554630640466,
+                            "y": 3139.038209606987
+                        },
+                        {
+                            "x": 3294.5735534934493,
+                            "y": 3139.038209606987
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        }
+    }
+}

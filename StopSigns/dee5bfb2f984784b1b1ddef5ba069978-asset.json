@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dee5bfb2f984784b1b1ddef5ba069978",
+        "name": "emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+        "size": {
+            "width": 2647,
+            "height": 2647
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dIdNcRt5e",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 262.96615720524017,
+                "width": 245.6277292576419,
+                "left": 1570.5725982532751,
+                "top": 1121.2183406113536
+            },
+            "points": [
+                {
+                    "x": 1570.5725982532751,
+                    "y": 1121.2183406113536
+                },
+                {
+                    "x": 1816.2003275109168,
+                    "y": 1121.2183406113536
+                },
+                {
+                    "x": 1816.2003275109168,
+                    "y": 1384.1844978165939
+                },
+                {
+                    "x": 1570.5725982532751,
+                    "y": 1384.1844978165939
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

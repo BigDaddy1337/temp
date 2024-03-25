@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2e0a2913dc1f4410ad03b299ea0562e4",
+        "name": "naina-vij--j35s3zjPKU-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/naina-vij--j35s3zjPKU-unsplash.jpg",
+        "size": {
+            "width": 3024,
+            "height": 4032
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZEepTrZvy",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 3151.6506550218337,
+                "width": 3006.3930131004363,
+                "left": 17.606986899563317,
+                "top": 488.59388646288204
+            },
+            "points": [
+                {
+                    "x": 17.606986899563317,
+                    "y": 488.59388646288204
+                },
+                {
+                    "x": 3023.9999999999995,
+                    "y": 488.59388646288204
+                },
+                {
+                    "x": 3023.9999999999995,
+                    "y": 3640.2445414847157
+                },
+                {
+                    "x": 17.606986899563317,
+                    "y": 3640.2445414847157
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

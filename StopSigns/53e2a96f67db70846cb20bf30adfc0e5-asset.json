@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53e2a96f67db70846cb20bf30adfc0e5",
+        "name": "brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+        "size": {
+            "width": 2603,
+            "height": 3904
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gSnD9R6Mr",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 200.31441048034935,
+                "width": 161.8887070376432,
+                "left": 1209.3725450081831,
+                "top": 1142.2183406113538
+            },
+            "points": [
+                {
+                    "x": 1209.3725450081831,
+                    "y": 1142.2183406113538
+                },
+                {
+                    "x": 1371.2612520458265,
+                    "y": 1142.2183406113538
+                },
+                {
+                    "x": 1371.2612520458265,
+                    "y": 1342.5327510917032
+                },
+                {
+                    "x": 1209.3725450081831,
+                    "y": 1342.5327510917032
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

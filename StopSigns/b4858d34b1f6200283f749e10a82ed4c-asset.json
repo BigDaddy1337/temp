@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b4858d34b1f6200283f749e10a82ed4c",
+        "name": "ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+        "size": {
+            "width": 3553,
+            "height": 4737
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YOM4kopSV",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 144.7991266375546,
+                "width": 149.98107714701598,
+                "left": 3294.5735534934493,
+                "top": 2994.2390829694327
+            },
+            "points": [
+                {
+                    "x": 3294.5735534934493,
+                    "y": 2994.2390829694327
+                },
+                {
+                    "x": 3444.554630640466,
+                    "y": 2994.2390829694327
+                },
+                {
+                    "x": 3444.554630640466,
+                    "y": 3139.038209606987
+                },
+                {
+                    "x": 3294.5735534934493,
+                    "y": 3139.038209606987
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

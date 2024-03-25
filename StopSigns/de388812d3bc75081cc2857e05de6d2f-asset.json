@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "de388812d3bc75081cc2857e05de6d2f",
+        "name": "chris-benson-h0UG2Bd_Few-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/chris-benson-h0UG2Bd_Few-unsplash.jpg",
+        "size": {
+            "width": 4096,
+            "height": 2303
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KfTUYViOT",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 191.91666666666666,
+                "width": 206.07029634734664,
+                "left": 728.3032391454169,
+                "top": 451.34813495710785
+            },
+            "points": [
+                {
+                    "x": 728.3032391454169,
+                    "y": 451.34813495710785
+                },
+                {
+                    "x": 934.3735354927636,
+                    "y": 451.34813495710785
+                },
+                {
+                    "x": 934.3735354927636,
+                    "y": 643.2648016237745
+                },
+                {
+                    "x": 728.3032391454169,
+                    "y": 643.2648016237745
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

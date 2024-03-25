@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b63ab57e8c1ac52711a3cefbfda4a1a0",
+        "name": "josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+        "size": {
+            "width": 3000,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NhNg7hs1y",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 203.05676855895197,
+                "width": 203.05676855895197,
+                "left": 1210.698689956332,
+                "top": 718.3406113537119
+            },
+            "points": [
+                {
+                    "x": 1210.698689956332,
+                    "y": 718.3406113537119
+                },
+                {
+                    "x": 1413.7554585152839,
+                    "y": 718.3406113537119
+                },
+                {
+                    "x": 1413.7554585152839,
+                    "y": 921.3973799126638
+                },
+                {
+                    "x": 1210.698689956332,
+                    "y": 921.3973799126638
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c9405cf18daadccc860e30849d006e0a",
+        "name": "kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+        "size": {
+            "width": 5568,
+            "height": 3250
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "R3piK1AIN",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 176.50531286894923,
+                "width": 188.0303239145417,
+                "left": 3380.708476912474,
+                "top": 1529.0132452774499
+            },
+            "points": [
+                {
+                    "x": 3380.708476912474,
+                    "y": 1529.0132452774499
+                },
+                {
+                    "x": 3568.738800827016,
+                    "y": 1529.0132452774499
+                },
+                {
+                    "x": 3568.738800827016,
+                    "y": 1705.518558146399
+                },
+                {
+                    "x": 3380.708476912474,
+                    "y": 1705.518558146399
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

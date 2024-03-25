@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0abdabf4f7d03c7211e01d5ae096e756",
+        "name": "david-preston-mW2NETqR49A-unsplash.jpg",
+        "path": "file:C:/Repository/MLTests/Datasets/StopSigns/david-preston-mW2NETqR49A-unsplash.jpg",
+        "size": {
+            "width": 3500,
+            "height": 2500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "U7W9hdSFh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Stop sign"
+            ],
+            "boundingBox": {
+                "height": 521.2882096069869,
+                "width": 384.94539781591266,
+                "left": 1861.1239762090486,
+                "top": 821.5065502183406
+            },
+            "points": [
+                {
+                    "x": 1861.1239762090486,
+                    "y": 821.5065502183406
+                },
+                {
+                    "x": 2246.0693740249612,
+                    "y": 821.5065502183406
+                },
+                {
+                    "x": 2246.0693740249612,
+                    "y": 1342.7947598253274
+                },
+                {
+                    "x": 1861.1239762090486,
+                    "y": 1342.7947598253274
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
